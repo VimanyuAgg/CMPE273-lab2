@@ -1,5 +1,5 @@
 
-#SpotCrime using Python Spyne:
+#SpotCrime RPC using Python Spyne:
 
 This repo builds a simple RPC application to check crime report for a location using Spyne toolkit to build the application. Input protocol is HttpRpc and output is JSON as described below.
 

@@ -5,11 +5,11 @@ This repo builds a simple RPC application to check crime report for a location u
 
 ##Input (HttpRpc)
 
-```
-lat - latitude of a location
-lon - longitude of a location
-radius - radius distance in miles.
-```
+
+ - lat - latitude of a location
+ - lon - longitude of a location
+ - radius - radius distance in miles.
+
 ```
 curl "http://localhost:8000/checkcrime?lat=37.334164&lon=-121.884301&radius=0.02"
 ```

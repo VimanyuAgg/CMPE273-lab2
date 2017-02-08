@@ -27,7 +27,7 @@ class CrimeReport(ServiceBase):
         addressList = []
         OF = "OF"
         AMPERSAND = "&"
-        #icrimecount = []
+        
         for chunk in givenList:
             if chunk["type"] in crimeList:
                 pass
